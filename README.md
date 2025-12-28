@@ -3,6 +3,10 @@ Shows all 16 Logic Gates and how they relate to each other using Draggable Diagr
 
 ---
 
+Video: https://www.youtube.com/watch?v=3ln3mG3RJgk
+
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates_Symmetry/CATopalian_JavaScript_True_AI_16_Gates_Symmetry.html
+
 ![001](src/media/textures/screenshots/001.PNG)
 
 ![002](src/media/textures/screenshots/002.PNG)

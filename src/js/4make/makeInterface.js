@@ -50,11 +50,11 @@ function makeInterface(whichArray)
             gateImage.className = 'card';
             gateImage.onmousedown = function()
             {
-                gateImage.style.opacity = 0.7;
+                // gateImage.style.opacity = 0.7;
             };
             gateImage.onmouseup = function()
             {
-                gateImage.style.opacity = 1.0;
+                // gateImage.style.opacity = 1.0;
             };
 
             containerB.append(gateImage);
